@@ -1,0 +1,37 @@
+#warna {
+    background-color: rgb(186,3,2);
+}
+.logo{
+    width: 200px;
+}
+.header{
+    background-color: rgb(186,3,2);
+    height: 70px;
+}
+.toogler{
+    background-color: transparent;
+}
+.sliderimage{
+    margin-top: 50px;
+}
+.slider{
+    background-color: rgb(186,3,2);
+}
+.slide{
+    padding-top: 30px;
+    width: 1200px
+}
+.notive{
+    margin-top: 20px;
+}
+.danger{
+    background-color: (186,3,2) !important;
+}
+.slide{
+    margin-bottom: 20px;
+}
+@media only screen and (max-width:480px){
+    .slider{
+        background-color: rgb(186,3,2);
+    }
+}
